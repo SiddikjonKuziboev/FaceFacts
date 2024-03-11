@@ -17,6 +17,8 @@
 		9C8F39482B982DEF00B7438E /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8F39472B982DEF00B7438E /* Person.swift */; };
 		9C8F394A2B98331A00B7438E /* EditPersonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8F39492B98331A00B7438E /* EditPersonView.swift */; };
 		9C8F394C2B9872C800B7438E /* PeopleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8F394B2B9872C800B7438E /* PeopleView.swift */; };
+		9C989F122B997A91003800D7 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C989F112B997A91003800D7 /* Event.swift */; };
+		9C989F142B997E8F003800D7 /* EditEventView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C989F132B997E8F003800D7 /* EditEventView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +52,8 @@
 		9C8F39472B982DEF00B7438E /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		9C8F39492B98331A00B7438E /* EditPersonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditPersonView.swift; sourceTree = "<group>"; };
 		9C8F394B2B9872C800B7438E /* PeopleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleView.swift; sourceTree = "<group>"; };
+		9C989F112B997A91003800D7 /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		9C989F132B997E8F003800D7 /* EditEventView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditEventView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +106,9 @@
 			children = (
 				9C8F391D2B982DD400B7438E /* FaceFactsApp.swift */,
 				9C8F39472B982DEF00B7438E /* Person.swift */,
+				9C989F132B997E8F003800D7 /* EditEventView.swift */,
 				9C8F391F2B982DD400B7438E /* ContentView.swift */,
+				9C989F112B997A91003800D7 /* Event.swift */,
 				9C8F394B2B9872C800B7438E /* PeopleView.swift */,
 				9C8F39492B98331A00B7438E /* EditPersonView.swift */,
 				9C8F39212B982DD700B7438E /* Assets.xcassets */,
@@ -270,7 +276,9 @@
 				9C8F394C2B9872C800B7438E /* PeopleView.swift in Sources */,
 				9C8F39202B982DD400B7438E /* ContentView.swift in Sources */,
 				9C8F391E2B982DD400B7438E /* FaceFactsApp.swift in Sources */,
+				9C989F122B997A91003800D7 /* Event.swift in Sources */,
 				9C8F394A2B98331A00B7438E /* EditPersonView.swift in Sources */,
+				9C989F142B997E8F003800D7 /* EditEventView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
